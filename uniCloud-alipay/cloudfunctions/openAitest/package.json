@@ -1,0 +1,9 @@
+{
+  "name": "openAitest",
+  "dependencies": {
+	  "openai": "^4.72.0"
+  },
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}
