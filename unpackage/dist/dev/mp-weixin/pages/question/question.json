@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "AI断舍离助手",
+  "usingComponents": {
+    "question-box": "../../components/question-box/question-box",
+    "uv-subsection": "../../uni_modules/uv-subsection/components/uv-subsection/uv-subsection",
+    "uv-divider": "../../uni_modules/uv-divider/components/uv-divider/uv-divider"
+  }
+}
